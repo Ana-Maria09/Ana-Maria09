@@ -21,12 +21,12 @@ Welcome to my GitHub! I'm currently on a journey to master **Data Analysis** and
 I believe in **learning by doing**! Here are some of my favorite tools:  
 
 🌟 **Excel Dashboard** 📊  
-![Excel Dashboard](https://github.com/Ana-Maria09/Retail-Sale-Analysis-Using-Excel-) 
+[Excel Dashboard](https://github.com/Ana-Maria09/Retail-Sale-Analysis-Using-Excel-) 
 🌟 **Tableau Visualizations** 🎨  
-![Tableau Charts](https://user-images.githubusercontent.com/00000000/0000000000-tableau-visualization.jpg)  
+[Tableau Charts](https://user-images.githubusercontent.com/00000000/0000000000-tableau-visualization.jpg)  
 
 🌟 **Power BI Reports** 📈  
-![Power BI Report](https://user-images.githubusercontent.com/00000000/0000000000-powerbi-dashboard.jpg)  
+[Power BI Report](https://user-images.githubusercontent.com/00000000/0000000000-powerbi-dashboard.jpg)  
 
 ---
 
