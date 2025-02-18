@@ -22,8 +22,11 @@ I believe in **learning by doing**! Here are some of my favorite tools:
 
 🌟 **Excel Dashboard** 📊  
 [Excel Dashboard](https://github.com/Ana-Maria09/Retail-Sale-Analysis-Using-Excel-) 
+
+
 🌟 **Tableau Visualizations** 🎨  
 [Tableau Charts](https://github.com/Ana-Maria09/-Tableau-UK-Employment-data-)  
+
 
 🌟 **Power BI Reports** 📈  
 [Power BI Report](https://github.com/Ana-Maria09/Sales-Dataset-Power-BI)  
