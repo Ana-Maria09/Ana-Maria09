@@ -44,6 +44,6 @@ I believe in **learning by doing**! Here are some of my favorite tools:
 ## 🌍 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/ana-maria-gheorghiu-03940983/)  
 
-📧 Email: gheorghiu_miana@yaho0.com
+📧 Email: gheorghiu_miana@yahoo.com
 
 Let's grow together in the data world! 🚀✨  
